@@ -1,0 +1,4 @@
+znn-vanity
+/results/
+*.txt
+!english.txt
